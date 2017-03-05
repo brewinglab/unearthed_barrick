@@ -2,6 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Barrick App:  Require access to media library to search and display photos</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Barrick App:  Require access to media library to search and display photos</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Barrick App:  Require access to camera to take photos</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDocumentTypes</key>

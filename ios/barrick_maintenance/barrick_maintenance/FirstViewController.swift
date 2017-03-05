@@ -10,6 +10,16 @@ import UIKit
 
 class FirstViewController: UIViewController {
 
+    
+    @IBOutlet var aLabel: UITextField!
+    
+    @IBOutlet weak var descriptionField: UITextField!
+    
+    
+    @IBOutlet weak var nextButton: UIButton!
+    
+    @IBOutlet weak var progressStatus: UISwitch!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
@@ -20,6 +30,10 @@ class FirstViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    @IBAction func nextButtonPressed(_ sender: UIButton) {
+    }
 
+    @IBAction func progressCompleteToggled(_ sender: UISwitch) {
+    }
 }
 

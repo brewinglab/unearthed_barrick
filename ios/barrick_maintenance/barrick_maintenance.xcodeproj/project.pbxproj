@@ -19,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		3C453A4FC847294673540D6B /* Pods_barrick_maintenance.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_barrick_maintenance.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		746A94B31E6C5FB000BF90D0 /* GimbalObjectiveCBridgingHeader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GimbalObjectiveCBridgingHeader.h; sourceTree = "<group>"; };
 		74A16F721E6B3C5300A0BBC8 /* barrick_maintenance.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = barrick_maintenance.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		74A16F751E6B3C5300A0BBC8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		74A16F771E6B3C5300A0BBC8 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
@@ -69,6 +70,7 @@
 			children = (
 				74EB10351E6B594700B54B94 /* barrick_maintenance.entitlements */,
 				74A16F751E6B3C5300A0BBC8 /* AppDelegate.swift */,
+				746A94B31E6C5FB000BF90D0 /* GimbalObjectiveCBridgingHeader.h */,
 				74A16F771E6B3C5300A0BBC8 /* FirstViewController.swift */,
 				74A16F791E6B3C5300A0BBC8 /* SecondViewController.swift */,
 				74A16F801E6B3C5300A0BBC8 /* LaunchScreen.storyboard */,
