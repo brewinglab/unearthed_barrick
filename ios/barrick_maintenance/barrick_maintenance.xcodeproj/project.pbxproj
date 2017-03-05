@@ -71,9 +71,9 @@
 				74A16F751E6B3C5300A0BBC8 /* AppDelegate.swift */,
 				74A16F771E6B3C5300A0BBC8 /* FirstViewController.swift */,
 				74A16F791E6B3C5300A0BBC8 /* SecondViewController.swift */,
+				74A16F801E6B3C5300A0BBC8 /* LaunchScreen.storyboard */,
 				74A16F7B1E6B3C5300A0BBC8 /* Main.storyboard */,
 				74A16F7E1E6B3C5300A0BBC8 /* Assets.xcassets */,
-				74A16F801E6B3C5300A0BBC8 /* LaunchScreen.storyboard */,
 				74A16F831E6B3C5300A0BBC8 /* Info.plist */,
 			);
 			path = barrick_maintenance;
