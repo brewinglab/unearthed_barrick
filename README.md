@@ -2,6 +2,7 @@
 
 
 **Team Members**
- - William Hoang
  - Simon Ramsay
+ - Cameron Ramsay
  - Lindsey Taylor
+ - William Hoang
